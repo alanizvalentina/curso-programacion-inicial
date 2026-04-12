@@ -2,6 +2,19 @@ img {
   border: 17px dotted #a1613e;
   border-radius: 146px 146px 146px 146px;
 }
+
+#fotodescripcion {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#descripcion {
+  max-width: 400px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 body {
   background-color: rgb(247, 242, 237);
   margin-left: 10px;
