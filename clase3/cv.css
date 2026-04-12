@@ -1,0 +1,39 @@
+img {
+  border: 17px dotted #a1613e;
+  border-radius: 146px 146px 146px 146px;
+}
+body {
+  background-color: rgb(247, 242, 237);
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 0px;
+}
+
+h1 {
+  color: darkred;
+  background-color: rgb(237, 223, 205);
+  text-align: center;
+  margin-top: 0px;
+  width: 100%;
+}
+
+#experiencia {
+  display: grid;
+  grid-auto-flow: column;
+  column-gap: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.class-exp {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.formacion {
+  color: saddlebrown;
+  font-style: italic;
+}
+
+.mail {
+  font-size: x-large;
+  font-weight: bolder;
+}
