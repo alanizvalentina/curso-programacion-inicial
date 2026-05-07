@@ -1,0 +1,11 @@
+.hero {
+  background-image: url(../img/imgfondo.jpg);
+  background-size: cover;
+  min-height: 650px;
+  width: 100%;
+  color: white;
+}
+
+footer {
+  background-color: grey;
+}
